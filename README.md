@@ -4,7 +4,7 @@ https://github.com/atyenoria/ffmpeg-armv7
 # Synopsis
 This docker image creates ffmpeg static binary working on armv7(rasspi 2) with cross-compile method.
 
-# Usage
+# Usage(depreceated. this is a material)
 First, cross build armv7 ffmpeg on local machine. this task takes long. Be patient.
 
     git clone https://github.com/atyenoria/ffmpeg-armv7.git
